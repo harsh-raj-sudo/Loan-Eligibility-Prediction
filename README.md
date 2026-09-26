@@ -142,7 +142,7 @@ images/homepage.png
 - Machine Learning Engineer
 - Python Developer
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/harsh-raj-sudo
 
 ---
 
